@@ -53,9 +53,7 @@ public class Ex1RPS {
             // print latest score
         }
 
-
-
-
+        if (computer.equals(human))
 
 
 
